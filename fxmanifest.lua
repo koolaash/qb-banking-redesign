@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 author 'Kakarot'
-description 'Allows players to deposit/withdraw money from their bank/job account and create shared accounts'
+description 'Edited by kool_damon'
 version '2.0.0'
 
 shared_scripts {
